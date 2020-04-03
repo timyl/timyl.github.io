@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://timyl.github.io/"/>
-  <updated>2020-04-02T11:24:15.968Z</updated>
+  <updated>2020-04-03T03:21:08.771Z</updated>
   <id>http://timyl.github.io/</id>
   
   <author>
@@ -21,21 +21,27 @@
     <link href="http://timyl.github.io/2020/04/03/my-firstBlog/"/>
     <id>http://timyl.github.io/2020/04/03/my-firstBlog/</id>
     <published>2020-04-02T19:23:09.000Z</published>
-    <updated>2020-04-02T11:24:15.968Z</updated>
+    <updated>2020-04-03T03:21:08.771Z</updated>
     
-    <content type="html"><![CDATA[<p>this is an test blog</p>]]></content>
+    <content type="html"><![CDATA[<p>life for short, please be happy! –test blog</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;this is an test blog&lt;/p&gt;
+        &lt;p&gt;life for short, please be happy! –test blog&lt;/p&gt;
 
       
     
     </summary>
     
     
+      <category term="tech" scheme="http://timyl.github.io/categories/tech/"/>
+    
+    
+      <category term="Python" scheme="http://timyl.github.io/tags/Python/"/>
+    
+      <category term="Kubernetes" scheme="http://timyl.github.io/tags/Kubernetes/"/>
     
   </entry>
   
