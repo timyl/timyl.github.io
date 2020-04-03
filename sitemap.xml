@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://timyl.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-04-03T03:12:07.879Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://timyl.github.io/categories/index-1.html</loc>
     
     <lastmod>2020-04-03T02:05:58.449Z</lastmod>
@@ -9,23 +16,9 @@
   </url>
   
   <url>
-    <loc>http://timyl.github.io/tags/index-1.html</loc>
-    
-    <lastmod>2020-04-03T01:59:57.164Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://timyl.github.io/2020/04/03/my-firstBlog/</loc>
     
     <lastmod>2020-04-02T11:24:15.968Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://timyl.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-03-19T01:34:11.314Z</lastmod>
     
   </url>
   
